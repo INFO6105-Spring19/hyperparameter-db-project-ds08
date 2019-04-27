@@ -1,7 +1,0 @@
-Model_Name,weights_column,offset_column,fold_column,fold_assignment,stopping_rounds,max_runtime_secs,stopping_metric,stopping_tolerance,balance_classes,class_sampling_factors,max_after_balance_size,ntrees,max_depth,min_rows,nbins,nbins_top_level,nbins_cats,seed,sample_rate,sample_rate_per_class,col_sample_rate_per_tree,col_sample_rate_change_per_level,min_split_improvement,histogram_type,mtries,categorical_encoding,RMSE
-XRT_1_AutoML_20190416_233703,NULL,NULL,NULL,Modulo,0,0,deviance,0.007021565,FALSE,NULL,5,50,20,1,20,1024,1024,5.54E+18,0.632000029,NULL,1,1,1.00E-05,Random,-1,AUTO,325689.4257
-XRT_1_AutoML_20190417_092107,NULL,NULL,NULL,Modulo,0,0,deviance,0.007021565,FALSE,NULL,5,50,20,1,20,1024,1024,-5.34E+18,0.632000029,NULL,1,1,1.00E-05,Random,-1,AUTO,323151.4021
-XRT_1_AutoML_20190417_103626,NULL,NULL,NULL,Modulo,0,0,deviance,0.007021565,FALSE,NULL,5,50,20,1,20,1024,1024,3.64E+18,0.632000029,NULL,1,1,1.00E-05,Random,-1,AUTO,327050.1947
-XRT_1_AutoML_20190417_121910,NULL,NULL,NULL,Modulo,0,0,deviance,0.007021565,FALSE,NULL,5,35,20,1,20,1024,1024,2.31E+17,0.632000029,NULL,1,1,1.00E-05,Random,-1,AUTO,329421.3991
-XRT_1_AutoML_20190419_190006,NULL,NULL,NULL,Modulo,0,0,deviance,0.007021565,FALSE,NULL,5,43,20,1,20,1024,1024,3.54E+18,0.632000029,NULL,1,1,1.00E-05,Random,-1,AUTO,326902.6681
-XRT_1_AutoML_20190419_193106,NULL,NULL,NULL,Modulo,0,0,deviance,0.007021565,FALSE,NULL,5,30,20,1,20,1024,1024,7.04E+18,0.632000029,NULL,1,1,1.00E-05,Random,-1,AUTO,333680.2598
